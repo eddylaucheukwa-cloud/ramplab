@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.blend1
+test-results-ui*.log
+test-results/gui-temp/
+.publish/
+/AGENTS.md
+/scripts/blender_mcp_call.py
+/scripts/install_ramplab_in_blender.py
+/test-results/*
+/dist/ramplab-1.0.0.zip
+/dist/ramplab-1.0.0.zip.sha256
+*.log
+/examples/ramplab-tutorial.png

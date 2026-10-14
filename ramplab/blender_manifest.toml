@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "ramplab"
+version = "1.0.1"
+name = "RampLab"
+tagline = "Extract editable palettes and tonal ramps from image regions"
+maintainer = "RampLab contributors"
+type = "add-on"
+tags = ["Material", "Node", "User Interface"]
+blender_version_min = "4.5.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Import images and temporarily store large pixel buffers"
